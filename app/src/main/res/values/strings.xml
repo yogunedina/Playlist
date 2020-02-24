@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Playlist</string>
+    <string name="Button">Login</string>
+<string name="attempt_text">Attempts Left:</string>
+<string name="credentials">Wrong Credentials.. Try Again</string>
+<string name="Password">Password</string>
+<string name="Username">username</string>
+    <string name="button_info">View Info</string>
+</resources>
